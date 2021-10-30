@@ -78,5 +78,16 @@ func main() {
 - Returns EOF when not present
 
 ### URL Path parameters
+- Add new handler
 ```go
+	http.HandleFunc("/products/", productHandler)
 ```
+
+### Middleware
+- [ client <---> server <---> HTTP Mux <----Middleware----> Handler ]
+- Is client authenticated ? 
+- Do they have enough permissions ?
+- logging
+- load session data
+
+#### Wrap your handler with Adapter function
