@@ -68,7 +68,6 @@ func main() {
 	}
 	fmt.Println(string(productJson))
 }
-
 ```
 
 ### Request Object More deep
