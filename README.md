@@ -76,3 +76,7 @@ func main() {
 #### Request.Body  
 - io.ReadCloser: Mostly json Marshall/unmarshall is used
 - Returns EOF when not present
+
+### URL Path parameters
+```go
+```
