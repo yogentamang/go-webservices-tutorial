@@ -52,6 +52,8 @@ func main() {
 	http.ListenAndServe(":3001", mux)
 }
 ```
+### Using closure to pass variables to handler
+
 ### Creating Handlers
 - http.Handle
 - http.HandleFunc
