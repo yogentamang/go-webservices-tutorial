@@ -1,13 +1,7 @@
-### Pointers (&) and Dereference Operators
-Pointers are reference to actual variables in a RAM. When you change the content of the memory location, you will also change variables. 
-- & -- gives address of the variable
-- use dereference operator(*) to work with the pointers
+package main
 
-### Interfaces
+import "fmt"
 
-### Maps
-- Dicitionary
-```go
 func main() {
 	// Using map operators
 	var mp map[string]int = map[string]int{
@@ -39,7 +33,3 @@ func main() {
 	fmt.Println(mp2)
 
 }
-```
-
-### References
-1. https://www.youtube.com/watch?v=yJE2RC37BF4&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=15
