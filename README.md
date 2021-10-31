@@ -147,5 +147,12 @@ func main() {
 - load session data
 
 #### Wrap your handler with Adapter function
+
+### CORS
+- Access-Control-Allow-Origin
+- Access-Control-Allow-Methods
+- Access-Control-Allow-Headers
+### Demo
+- Organize code into packages
 ## References
 1. https://www.alexedwards.net/blog/a-recap-of-request-handling
