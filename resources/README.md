@@ -76,7 +76,10 @@ func main() {
 
 }
 ```
+### Creaging Goroutines
+
 
 ### References
 1. https://www.youtube.com/watch?v=yJE2RC37BF4&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=15
 1. https://gobyexample.com/closures
+

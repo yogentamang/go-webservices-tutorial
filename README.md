@@ -154,5 +154,11 @@ func main() {
 - Access-Control-Allow-Headers
 ### Demo
 - Organize code into packages
+following folders are created:
+- product
+- cors
+
+## Persisting Data
+
 ## References
 1. https://www.alexedwards.net/blog/a-recap-of-request-handling
